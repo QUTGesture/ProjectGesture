@@ -1,0 +1,2 @@
+C:\Users\rodzs\Documents\TestPojects\HololensGestureProject\GestureApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\rodzs\Documents\TestPojects\HololensGestureProject\GestureApp\HololensGestureProject\HololensGestureProject.csproj;x86
